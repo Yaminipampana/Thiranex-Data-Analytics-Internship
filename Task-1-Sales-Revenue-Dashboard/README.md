@@ -27,7 +27,7 @@ Build an interactive dashboard to analyze sales and revenue data.
 
 ## Dashboard Preview
 
-(Add screenshots here)
+![Dashboard Preview](Screenshot%202026-06-08%20072042.png)
 
 ## Learning Outcomes
 - Data Visualization
